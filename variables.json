@@ -1,0 +1,9 @@
+{
+    "user": "", 
+    "password": "",
+    "host": "",
+    "port": "",
+    "database": "",
+    "execution_date": "''",
+    "force_append": "false"
+}

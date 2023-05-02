@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+logs/*
+data/data_analysis
+data/model_monitoring
+.env
